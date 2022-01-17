@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CF0C8FCD262F609A00DA248F /* BootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0C8FCC262F609A00DA248F /* BootCampApp.swift */; };
-		CF0C8FCF262F609A00DA248F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0C8FCE262F609A00DA248F /* ContentView.swift */; };
 		CF0C8FD1262F60E700DA248F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF0C8FD0262F60E700DA248F /* Assets.xcassets */; };
 		CF0C8FD4262F60E700DA248F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF0C8FD3262F60E700DA248F /* Preview Assets.xcassets */; };
 		CF0C8FDD262F610900DA248F /* LongPress.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0C8FDC262F610900DA248F /* LongPress.swift */; };
@@ -29,16 +28,19 @@
 		CF1B20002630C2F4009028EC /* HashableBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FFF2630C2F4009028EC /* HashableBC.swift */; };
 		CF1B20032630E168009028EC /* ArrayBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B20022630E168009028EC /* ArrayBC.swift */; };
 		CF1B200626311F4E009028EC /* CoreDataBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B200526311F4D009028EC /* CoreDataBC.swift */; };
-		CF1B200A26312050009028EC /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF1B200826312050009028EC /* FruitsContainer.xcdatamodeld */; };
+		CF1B200A26312050009028EC /* FruitContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF1B200826312050009028EC /* FruitContainer.xcdatamodeld */; };
+		CF4737F8279522F400C6CAA6 /* InitializierBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4737F7279522F400C6CAA6 /* InitializierBC.swift */; };
 		CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */; };
 		CF92C9662634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9642634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld */; };
 		CFC00974263B37E100297C3D /* DownLoadWithCombineBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */; };
+		CFCDD6C7275D61BD0018A5D4 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCDD6C6275D61BD0018A5D4 /* ViewModifiers.swift */; };
+		CFCDD6C9275D67810018A5D4 /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCDD6C8275D67810018A5D4 /* ButtonStyles.swift */; };
+		CFCDD6CC275D789A0018A5D4 /* AnyTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCDD6CB275D78990018A5D4 /* AnyTransitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CF0C8FC9262F609A00DA248F /* BootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF0C8FCC262F609A00DA248F /* BootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootCampApp.swift; sourceTree = "<group>"; };
-		CF0C8FCE262F609A00DA248F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CF0C8FD0262F60E700DA248F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF0C8FD3262F60E700DA248F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CF0C8FD5262F60E700DA248F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -61,9 +63,13 @@
 		CF1B20022630E168009028EC /* ArrayBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayBC.swift; sourceTree = "<group>"; };
 		CF1B200526311F4D009028EC /* CoreDataBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBC.swift; sourceTree = "<group>"; };
 		CF1B200926312050009028EC /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
+		CF4737F7279522F400C6CAA6 /* InitializierBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializierBC.swift; sourceTree = "<group>"; };
 		CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBC.swift; sourceTree = "<group>"; };
 		CF92C9652634A8BF008B8AFF /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownLoadWithCombineBC.swift; sourceTree = "<group>"; };
+		CFCDD6C6275D61BD0018A5D4 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
+		CFCDD6C8275D67810018A5D4 /* ButtonStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
+		CFCDD6CB275D78990018A5D4 /* AnyTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,25 +103,8 @@
 			isa = PBXGroup;
 			children = (
 				CF0C8FCC262F609A00DA248F /* BootCampApp.swift */,
-				CF0C8FCE262F609A00DA248F /* ContentView.swift */,
-				CF0C8FDC262F610900DA248F /* LongPress.swift */,
-				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
-				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
-				CF1B1FD6262FA393009028EC /* DragGestureBC.swift */,
-				CF1B1FD9262FBB4D009028EC /* ScrollViewReaderBC.swift */,
-				CF1B1FDC262FC383009028EC /* GeometryReaderBC.swift */,
-				CF1B1FDF262FC66A009028EC /* MultiSheetBC.swift */,
-				CF1B1FE2262FF0B5009028EC /* MaskBC.swift */,
-				CF1B1FE9262FF9FD009028EC /* SoundsBC */,
-				CF1B1FF62630B7FA009028EC /* HapticsBC.swift */,
-				CF1B1FFC2630BBD9009028EC /* LocalNotificationBC.swift */,
-				CF1B1FFF2630C2F4009028EC /* HashableBC.swift */,
-				CF1B20022630E168009028EC /* ArrayBC.swift */,
-				CF1B200526311F4D009028EC /* CoreDataBC.swift */,
-				CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */,
-				CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */,
-				CF92C9642634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld */,
-				CF1B200826312050009028EC /* FruitsContainer.xcdatamodeld */,
+				CFCDD6C5275D61510018A5D4 /* Basics */,
+				CFCDD6C4275D61350018A5D4 /* Mastering SwiftUI */,
 				CF0C8FD0262F60E700DA248F /* Assets.xcassets */,
 				CF0C8FD5262F60E700DA248F /* Info.plist */,
 				CF0C8FD2262F60E700DA248F /* Preview Content */,
@@ -141,6 +130,42 @@
 				CF1B1FEA262FFA28009028EC /* squeakytoy.mp3 */,
 			);
 			path = SoundsBC;
+			sourceTree = "<group>";
+		};
+		CFCDD6C4275D61350018A5D4 /* Mastering SwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				CFCDD6C6275D61BD0018A5D4 /* ViewModifiers.swift */,
+				CFCDD6C8275D67810018A5D4 /* ButtonStyles.swift */,
+				CFCDD6CB275D78990018A5D4 /* AnyTransitions.swift */,
+			);
+			path = "Mastering SwiftUI";
+			sourceTree = "<group>";
+		};
+		CFCDD6C5275D61510018A5D4 /* Basics */ = {
+			isa = PBXGroup;
+			children = (
+				CF4737F7279522F400C6CAA6 /* InitializierBC.swift */,
+				CF0C8FDC262F610900DA248F /* LongPress.swift */,
+				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
+				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
+				CF1B1FD6262FA393009028EC /* DragGestureBC.swift */,
+				CF1B1FD9262FBB4D009028EC /* ScrollViewReaderBC.swift */,
+				CF1B1FDC262FC383009028EC /* GeometryReaderBC.swift */,
+				CF1B1FDF262FC66A009028EC /* MultiSheetBC.swift */,
+				CF1B1FE2262FF0B5009028EC /* MaskBC.swift */,
+				CF1B1FE9262FF9FD009028EC /* SoundsBC */,
+				CF1B1FF62630B7FA009028EC /* HapticsBC.swift */,
+				CF1B1FFC2630BBD9009028EC /* LocalNotificationBC.swift */,
+				CF1B1FFF2630C2F4009028EC /* HashableBC.swift */,
+				CF1B20022630E168009028EC /* ArrayBC.swift */,
+				CF1B200526311F4D009028EC /* CoreDataBC.swift */,
+				CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */,
+				CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */,
+				CF92C9642634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld */,
+				CF1B200826312050009028EC /* FruitContainer.xcdatamodeld */,
+			);
+			path = Basics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -218,19 +243,22 @@
 			files = (
 				CF1B20002630C2F4009028EC /* HashableBC.swift in Sources */,
 				CF1B1FDA262FBB4D009028EC /* ScrollViewReaderBC.swift in Sources */,
-				CF1B200A26312050009028EC /* FruitsContainer.xcdatamodeld in Sources */,
+				CF1B200A26312050009028EC /* FruitContainer.xcdatamodeld in Sources */,
+				CFCDD6CC275D789A0018A5D4 /* AnyTransitions.swift in Sources */,
 				CF1B1FD7262FA393009028EC /* DragGestureBC.swift in Sources */,
 				CF1B200626311F4E009028EC /* CoreDataBC.swift in Sources */,
 				CF1B1FE7262FF562009028EC /* SoundsBC.swift in Sources */,
-				CF0C8FCF262F609A00DA248F /* ContentView.swift in Sources */,
 				CF1B1FE0262FC66A009028EC /* MultiSheetBC.swift in Sources */,
 				CFC00974263B37E100297C3D /* DownLoadWithCombineBC.swift in Sources */,
+				CFCDD6C9275D67810018A5D4 /* ButtonStyles.swift in Sources */,
+				CF4737F8279522F400C6CAA6 /* InitializierBC.swift in Sources */,
 				CF1B1FD4262FA1ED009028EC /* RotationGestureBC.swift in Sources */,
 				CF1B1FCE262F7392009028EC /* MagnificationGesture.swift in Sources */,
 				CF1B1FF72630B7FA009028EC /* HapticsBC.swift in Sources */,
 				CF1B1FDD262FC383009028EC /* GeometryReaderBC.swift in Sources */,
 				CF0C8FCD262F609A00DA248F /* BootCampApp.swift in Sources */,
 				CF92C9662634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld in Sources */,
+				CFCDD6C7275D61BD0018A5D4 /* ViewModifiers.swift in Sources */,
 				CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */,
 				CF1B20032630E168009028EC /* ArrayBC.swift in Sources */,
 				CF1B1FFD2630BBD9009028EC /* LocalNotificationBC.swift in Sources */,
@@ -426,13 +454,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		CF1B200826312050009028EC /* FruitsContainer.xcdatamodeld */ = {
+		CF1B200826312050009028EC /* FruitContainer.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				CF1B200926312050009028EC /* FruitsContainer.xcdatamodel */,
 			);
 			currentVersion = CF1B200926312050009028EC /* FruitsContainer.xcdatamodel */;
-			path = FruitsContainer.xcdatamodeld;
+			path = FruitContainer.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
