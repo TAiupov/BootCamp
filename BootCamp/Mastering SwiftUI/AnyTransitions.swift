@@ -26,7 +26,7 @@ extension AnyTransition {
                                identity: RotateViewModifier(rotation: 0))
     }
     
-    static var rotating: AnyTransition {
+    static var rotating2: AnyTransition {
         AnyTransition.modifier(active: RotateViewModifier(rotation: 180),
                                identity: RotateViewModifier(rotation: 0))
     }

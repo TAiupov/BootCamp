@@ -9,15 +9,33 @@ import SwiftUI
 
 struct InitializierBC: View {
     
-    let bgColor: Color = Color.red
+    let bgColor: Color
+    let count: Int
+    let title: String
+    
+    init(count: Int, fruit: Fruit) {
+        self.count = count
+        if fruit == .apple {
+            self.title = "Apples"
+            self.bgColor = .red
+        } else {
+            self.title = "Oranges"
+            self.bgColor = .orange
+        }
+    }
+    
+    enum Fruit {
+        case apple
+        case orange
+    }
     
     var body: some View {
-        VStack {
-            Text("5")
+        VStack(spacing: 12) {
+            Text("\(count)")
                 .font(.largeTitle)
                 .foregroundColor(.white)
                 .underline()
-            Text("Apples")
+            Text(title)
                 .font(.headline)
                 .foregroundColor(.white)
         }
@@ -29,6 +47,9 @@ struct InitializierBC: View {
 
 struct InitializierBC_Previews: PreviewProvider {
     static var previews: some View {
-        InitializierBC()
+        HStack {
+            InitializierBC(count: 5, fruit: .apple)
+            InitializierBC(count: 10, fruit: .orange)
+        }
     }
 }
