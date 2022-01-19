@@ -34,6 +34,7 @@
 		CF851970279531F700CF0BA3 /* ScrollViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF85196F279531F700CF0BA3 /* ScrollViewBC.swift */; };
 		CF8519722795348700CF0BA3 /* GridsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519712795348700CF0BA3 /* GridsBC.swift */; };
 		CF8519742797AC7500CF0BA3 /* SafeAreaBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */; };
+		CF8519762797B0CC00CF0BA3 /* ButtonsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */; };
 		CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */; };
 		CF92C9662634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9642634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld */; };
 		CFC00974263B37E100297C3D /* DownLoadWithCombineBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */; };
@@ -72,6 +73,7 @@
 		CF85196F279531F700CF0BA3 /* ScrollViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBC.swift; sourceTree = "<group>"; };
 		CF8519712795348700CF0BA3 /* GridsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridsBC.swift; sourceTree = "<group>"; };
 		CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBC.swift; sourceTree = "<group>"; };
+		CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBC.swift; sourceTree = "<group>"; };
 		CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBC.swift; sourceTree = "<group>"; };
 		CF92C9652634A8BF008B8AFF /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownLoadWithCombineBC.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				CF85196F279531F700CF0BA3 /* ScrollViewBC.swift */,
 				CF8519712795348700CF0BA3 /* GridsBC.swift */,
 				CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */,
+				CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -279,6 +282,7 @@
 				CF8519722795348700CF0BA3 /* GridsBC.swift in Sources */,
 				CF1B1FFD2630BBD9009028EC /* LocalNotificationBC.swift in Sources */,
 				CF1B1FE3262FF0B5009028EC /* MaskBC.swift in Sources */,
+				CF8519762797B0CC00CF0BA3 /* ButtonsBC.swift in Sources */,
 				CF0C8FDD262F610900DA248F /* LongPress.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,7 +416,7 @@
 				DEVELOPMENT_TEAM = K4Z3B8Z46M;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BootCamp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -434,7 +438,7 @@
 				DEVELOPMENT_TEAM = K4Z3B8Z46M;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BootCamp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
