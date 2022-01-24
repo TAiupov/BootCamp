@@ -35,6 +35,7 @@
 		CF8519722795348700CF0BA3 /* GridsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519712795348700CF0BA3 /* GridsBC.swift */; };
 		CF8519742797AC7500CF0BA3 /* SafeAreaBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */; };
 		CF8519762797B0CC00CF0BA3 /* ButtonsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */; };
+		CF851978279E639300CF0BA3 /* StateBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF851977279E639300CF0BA3 /* StateBC.swift */; };
 		CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */; };
 		CF92C9662634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9642634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld */; };
 		CFC00974263B37E100297C3D /* DownLoadWithCombineBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */; };
@@ -74,6 +75,7 @@
 		CF8519712795348700CF0BA3 /* GridsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridsBC.swift; sourceTree = "<group>"; };
 		CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBC.swift; sourceTree = "<group>"; };
 		CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBC.swift; sourceTree = "<group>"; };
+		CF851977279E639300CF0BA3 /* StateBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBC.swift; sourceTree = "<group>"; };
 		CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBC.swift; sourceTree = "<group>"; };
 		CF92C9652634A8BF008B8AFF /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownLoadWithCombineBC.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				CF8519712795348700CF0BA3 /* GridsBC.swift */,
 				CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */,
 				CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */,
+				CF851977279E639300CF0BA3 /* StateBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -261,6 +264,7 @@
 				CF8519742797AC7500CF0BA3 /* SafeAreaBC.swift in Sources */,
 				CF1B200A26312050009028EC /* FruitContainer.xcdatamodeld in Sources */,
 				CFCDD6CC275D789A0018A5D4 /* AnyTransitions.swift in Sources */,
+				CF851978279E639300CF0BA3 /* StateBC.swift in Sources */,
 				CF1B1FD7262FA393009028EC /* DragGestureBC.swift in Sources */,
 				CF1B200626311F4E009028EC /* CoreDataBC.swift in Sources */,
 				CF1B1FE7262FF562009028EC /* SoundsBC.swift in Sources */,
