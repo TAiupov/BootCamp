@@ -36,6 +36,7 @@
 		CF8519742797AC7500CF0BA3 /* SafeAreaBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */; };
 		CF8519762797B0CC00CF0BA3 /* ButtonsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */; };
 		CF851978279E639300CF0BA3 /* StateBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF851977279E639300CF0BA3 /* StateBC.swift */; };
+		CF85197A279E664F00CF0BA3 /* ExtractedFunctionsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF851979279E664F00CF0BA3 /* ExtractedFunctionsBC.swift */; };
 		CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */; };
 		CF92C9662634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9642634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld */; };
 		CFC00974263B37E100297C3D /* DownLoadWithCombineBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */; };
@@ -76,6 +77,7 @@
 		CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBC.swift; sourceTree = "<group>"; };
 		CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBC.swift; sourceTree = "<group>"; };
 		CF851977279E639300CF0BA3 /* StateBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBC.swift; sourceTree = "<group>"; };
+		CF851979279E664F00CF0BA3 /* ExtractedFunctionsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBC.swift; sourceTree = "<group>"; };
 		CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBC.swift; sourceTree = "<group>"; };
 		CF92C9652634A8BF008B8AFF /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownLoadWithCombineBC.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				CF8519732797AC7500CF0BA3 /* SafeAreaBC.swift */,
 				CF8519752797B0CC00CF0BA3 /* ButtonsBC.swift */,
 				CF851977279E639300CF0BA3 /* StateBC.swift */,
+				CF851979279E664F00CF0BA3 /* ExtractedFunctionsBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF1B20002630C2F4009028EC /* HashableBC.swift in Sources */,
+				CF85197A279E664F00CF0BA3 /* ExtractedFunctionsBC.swift in Sources */,
 				CF1B1FDA262FBB4D009028EC /* ScrollViewReaderBC.swift in Sources */,
 				CF8519742797AC7500CF0BA3 /* SafeAreaBC.swift in Sources */,
 				CF1B200A26312050009028EC /* FruitContainer.xcdatamodeld in Sources */,
