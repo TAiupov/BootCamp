@@ -49,6 +49,7 @@
 		CFD74DA527B09AE100E0EBF3 /* TernaryBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DA427B09AE100E0EBF3 /* TernaryBC.swift */; };
 		CFD74DA727B0A06C00E0EBF3 /* AnimationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DA627B0A06C00E0EBF3 /* AnimationBC.swift */; };
 		CFD74DA927B0A55B00E0EBF3 /* AnimationTimingBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */; };
+		CFD74DAB27B0ABD300E0EBF3 /* TransitionBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DAA27B0ABD300E0EBF3 /* TransitionBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -96,6 +97,7 @@
 		CFD74DA427B09AE100E0EBF3 /* TernaryBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBC.swift; sourceTree = "<group>"; };
 		CFD74DA627B0A06C00E0EBF3 /* AnimationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBC.swift; sourceTree = "<group>"; };
 		CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBC.swift; sourceTree = "<group>"; };
+		CFD74DAA27B0ABD300E0EBF3 /* TransitionBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +187,7 @@
 				CFD74DA427B09AE100E0EBF3 /* TernaryBC.swift */,
 				CFD74DA627B0A06C00E0EBF3 /* AnimationBC.swift */,
 				CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */,
+				CFD74DAA27B0ABD300E0EBF3 /* TransitionBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -311,6 +314,7 @@
 				CFCDD6C7275D61BD0018A5D4 /* ViewModifiers.swift in Sources */,
 				CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */,
 				CF1B20032630E168009028EC /* ArrayBC.swift in Sources */,
+				CFD74DAB27B0ABD300E0EBF3 /* TransitionBC.swift in Sources */,
 				CF8519722795348700CF0BA3 /* GridsBC.swift in Sources */,
 				CF1B1FFD2630BBD9009028EC /* LocalNotificationBC.swift in Sources */,
 				CF1B1FE3262FF0B5009028EC /* MaskBC.swift in Sources */,
