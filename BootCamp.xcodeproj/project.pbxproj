@@ -48,6 +48,7 @@
 		CFD74DA327B0965100E0EBF3 /* ConditionalBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DA227B0965100E0EBF3 /* ConditionalBC.swift */; };
 		CFD74DA527B09AE100E0EBF3 /* TernaryBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DA427B09AE100E0EBF3 /* TernaryBC.swift */; };
 		CFD74DA727B0A06C00E0EBF3 /* AnimationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DA627B0A06C00E0EBF3 /* AnimationBC.swift */; };
+		CFD74DA927B0A55B00E0EBF3 /* AnimationTimingBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -94,6 +95,7 @@
 		CFD74DA227B0965100E0EBF3 /* ConditionalBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBC.swift; sourceTree = "<group>"; };
 		CFD74DA427B09AE100E0EBF3 /* TernaryBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBC.swift; sourceTree = "<group>"; };
 		CFD74DA627B0A06C00E0EBF3 /* AnimationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBC.swift; sourceTree = "<group>"; };
+		CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +184,7 @@
 				CFD74DA227B0965100E0EBF3 /* ConditionalBC.swift */,
 				CFD74DA427B09AE100E0EBF3 /* TernaryBC.swift */,
 				CFD74DA627B0A06C00E0EBF3 /* AnimationBC.swift */,
+				CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -280,6 +283,7 @@
 				CF1B20002630C2F4009028EC /* HashableBC.swift in Sources */,
 				CF85197A279E664F00CF0BA3 /* ExtractedFunctionsBC.swift in Sources */,
 				CF1B1FDA262FBB4D009028EC /* ScrollViewReaderBC.swift in Sources */,
+				CFD74DA927B0A55B00E0EBF3 /* AnimationTimingBC.swift in Sources */,
 				CF8519742797AC7500CF0BA3 /* SafeAreaBC.swift in Sources */,
 				CF1B200A26312050009028EC /* FruitContainer.xcdatamodeld in Sources */,
 				CFCDD6CC275D789A0018A5D4 /* AnyTransitions.swift in Sources */,
