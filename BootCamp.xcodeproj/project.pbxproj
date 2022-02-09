@@ -11,6 +11,7 @@
 		CF0C8FD1262F60E700DA248F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF0C8FD0262F60E700DA248F /* Assets.xcassets */; };
 		CF0C8FD4262F60E700DA248F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF0C8FD3262F60E700DA248F /* Preview Assets.xcassets */; };
 		CF0C8FDD262F610900DA248F /* LongPress.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0C8FDC262F610900DA248F /* LongPress.swift */; };
+		CF0F17CB27B36AFE00004FC8 /* SheetsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */; };
 		CF1B1FCE262F7392009028EC /* MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */; };
 		CF1B1FD4262FA1ED009028EC /* RotationGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */; };
 		CF1B1FD7262FA393009028EC /* DragGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD6262FA393009028EC /* DragGestureBC.swift */; };
@@ -59,6 +60,7 @@
 		CF0C8FD3262F60E700DA248F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CF0C8FD5262F60E700DA248F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF0C8FDC262F610900DA248F /* LongPress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPress.swift; sourceTree = "<group>"; };
+		CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBC.swift; sourceTree = "<group>"; };
 		CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesture.swift; sourceTree = "<group>"; };
 		CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBC.swift; sourceTree = "<group>"; };
 		CF1B1FD6262FA393009028EC /* DragGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBC.swift; sourceTree = "<group>"; };
@@ -188,6 +190,7 @@
 				CFD74DA627B0A06C00E0EBF3 /* AnimationBC.swift */,
 				CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */,
 				CFD74DAA27B0ABD300E0EBF3 /* TransitionBC.swift */,
+				CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -299,6 +302,7 @@
 				CFC00974263B37E100297C3D /* DownLoadWithCombineBC.swift in Sources */,
 				CF851970279531F700CF0BA3 /* ScrollViewBC.swift in Sources */,
 				CFCDD6C9275D67810018A5D4 /* ButtonStyles.swift in Sources */,
+				CF0F17CB27B36AFE00004FC8 /* SheetsBC.swift in Sources */,
 				CF4737F8279522F400C6CAA6 /* InitializierBC.swift in Sources */,
 				CF1B1FD4262FA1ED009028EC /* RotationGestureBC.swift in Sources */,
 				CF1B1FCE262F7392009028EC /* MagnificationGesture.swift in Sources */,
