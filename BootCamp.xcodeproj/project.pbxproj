@@ -12,6 +12,7 @@
 		CF0C8FD4262F60E700DA248F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF0C8FD3262F60E700DA248F /* Preview Assets.xcassets */; };
 		CF0C8FDD262F610900DA248F /* LongPress.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0C8FDC262F610900DA248F /* LongPress.swift */; };
 		CF0F17CB27B36AFE00004FC8 /* SheetsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */; };
+		CF12C4E727C1AB9900B20EF3 /* NavigationViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */; };
 		CF1B1FCE262F7392009028EC /* MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */; };
 		CF1B1FD4262FA1ED009028EC /* RotationGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */; };
 		CF1B1FD7262FA393009028EC /* DragGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD6262FA393009028EC /* DragGestureBC.swift */; };
@@ -63,6 +64,7 @@
 		CF0C8FD5262F60E700DA248F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF0C8FDC262F610900DA248F /* LongPress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPress.swift; sourceTree = "<group>"; };
 		CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBC.swift; sourceTree = "<group>"; };
+		CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBC.swift; sourceTree = "<group>"; };
 		CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesture.swift; sourceTree = "<group>"; };
 		CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBC.swift; sourceTree = "<group>"; };
 		CF1B1FD6262FA393009028EC /* DragGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBC.swift; sourceTree = "<group>"; };
@@ -213,6 +215,7 @@
 				CFD74DAA27B0ABD300E0EBF3 /* TransitionBC.swift */,
 				CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */,
 				CF466BE227B37149000DB4D6 /* PopoverBC.swift */,
+				CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -317,6 +320,7 @@
 				CFCDD6CC275D789A0018A5D4 /* AnyTransitions.swift in Sources */,
 				CF851978279E639300CF0BA3 /* StateBC.swift in Sources */,
 				CF1B1FD7262FA393009028EC /* DragGestureBC.swift in Sources */,
+				CF12C4E727C1AB9900B20EF3 /* NavigationViewBC.swift in Sources */,
 				CF1B200626311F4E009028EC /* CoreDataBC.swift in Sources */,
 				CF1B1FE7262FF562009028EC /* SoundsBC.swift in Sources */,
 				CFD74DA127B08EE100E0EBF3 /* BindingBC.swift in Sources */,
