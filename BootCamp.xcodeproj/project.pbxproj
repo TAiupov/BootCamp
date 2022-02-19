@@ -30,7 +30,9 @@
 		CF1B20032630E168009028EC /* ArrayBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B20022630E168009028EC /* ArrayBC.swift */; };
 		CF1B200626311F4E009028EC /* CoreDataBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B200526311F4D009028EC /* CoreDataBC.swift */; };
 		CF1B200A26312050009028EC /* FruitContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF1B200826312050009028EC /* FruitContainer.xcdatamodeld */; };
+		CF466BE327B37149000DB4D6 /* PopoverBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF466BE227B37149000DB4D6 /* PopoverBC.swift */; };
 		CF4737F8279522F400C6CAA6 /* InitializierBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4737F7279522F400C6CAA6 /* InitializierBC.swift */; };
+		CF75076827C0384900D33526 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF75076727C0384900D33526 /* TestView.swift */; };
 		CF85196E27952E4C00CF0BA3 /* ForEachBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF85196D27952E4C00CF0BA3 /* ForEachBC.swift */; };
 		CF851970279531F700CF0BA3 /* ScrollViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF85196F279531F700CF0BA3 /* ScrollViewBC.swift */; };
 		CF8519722795348700CF0BA3 /* GridsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8519712795348700CF0BA3 /* GridsBC.swift */; };
@@ -79,7 +81,9 @@
 		CF1B20022630E168009028EC /* ArrayBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayBC.swift; sourceTree = "<group>"; };
 		CF1B200526311F4D009028EC /* CoreDataBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBC.swift; sourceTree = "<group>"; };
 		CF1B200926312050009028EC /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
+		CF466BE227B37149000DB4D6 /* PopoverBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBC.swift; sourceTree = "<group>"; };
 		CF4737F7279522F400C6CAA6 /* InitializierBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializierBC.swift; sourceTree = "<group>"; };
+		CF75076727C0384900D33526 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		CF85196D27952E4C00CF0BA3 /* ForEachBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBC.swift; sourceTree = "<group>"; };
 		CF85196F279531F700CF0BA3 /* ScrollViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBC.swift; sourceTree = "<group>"; };
 		CF8519712795348700CF0BA3 /* GridsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridsBC.swift; sourceTree = "<group>"; };
@@ -133,6 +137,8 @@
 			isa = PBXGroup;
 			children = (
 				CF0C8FCC262F609A00DA248F /* BootCampApp.swift */,
+				CF90093827C1A698005DEB4B /* AnimationChallenge */,
+				CF75076627C0383800D33526 /* Test */,
 				CFCDD6C5275D61510018A5D4 /* Basics */,
 				CFCDD6C4275D61350018A5D4 /* Mastering SwiftUI */,
 				CF0C8FD0262F60E700DA248F /* Assets.xcassets */,
@@ -160,6 +166,21 @@
 				CF1B1FEA262FFA28009028EC /* squeakytoy.mp3 */,
 			);
 			path = SoundsBC;
+			sourceTree = "<group>";
+		};
+		CF75076627C0383800D33526 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				CF75076727C0384900D33526 /* TestView.swift */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		CF90093827C1A698005DEB4B /* AnimationChallenge */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = AnimationChallenge;
 			sourceTree = "<group>";
 		};
 		CFCDD6C4275D61350018A5D4 /* Mastering SwiftUI */ = {
@@ -191,6 +212,7 @@
 				CFD74DA827B0A55B00E0EBF3 /* AnimationTimingBC.swift */,
 				CFD74DAA27B0ABD300E0EBF3 /* TransitionBC.swift */,
 				CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */,
+				CF466BE227B37149000DB4D6 /* PopoverBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -318,9 +340,11 @@
 				CFCDD6C7275D61BD0018A5D4 /* ViewModifiers.swift in Sources */,
 				CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */,
 				CF1B20032630E168009028EC /* ArrayBC.swift in Sources */,
+				CF466BE327B37149000DB4D6 /* PopoverBC.swift in Sources */,
 				CFD74DAB27B0ABD300E0EBF3 /* TransitionBC.swift in Sources */,
 				CF8519722795348700CF0BA3 /* GridsBC.swift in Sources */,
 				CF1B1FFD2630BBD9009028EC /* LocalNotificationBC.swift in Sources */,
+				CF75076827C0384900D33526 /* TestView.swift in Sources */,
 				CF1B1FE3262FF0B5009028EC /* MaskBC.swift in Sources */,
 				CF8519762797B0CC00CF0BA3 /* ButtonsBC.swift in Sources */,
 				CF0C8FDD262F610900DA248F /* LongPress.swift in Sources */,
@@ -456,7 +480,7 @@
 				DEVELOPMENT_TEAM = K4Z3B8Z46M;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BootCamp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -478,7 +502,7 @@
 				DEVELOPMENT_TEAM = K4Z3B8Z46M;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BootCamp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
