@@ -15,6 +15,7 @@
 		CF12C4E727C1AB9900B20EF3 /* NavigationViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */; };
 		CF12C4E927C1B18500B20EF3 /* ListBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4E827C1B18500B20EF3 /* ListBC.swift */; };
 		CF12C4EB27C2CBB900B20EF3 /* AlertBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */; };
+		CF12C4ED27C2D5C100B20EF3 /* ActionSheetBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4EC27C2D5C100B20EF3 /* ActionSheetBC.swift */; };
 		CF1B1FCE262F7392009028EC /* MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */; };
 		CF1B1FD4262FA1ED009028EC /* RotationGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */; };
 		CF1B1FD7262FA393009028EC /* DragGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD6262FA393009028EC /* DragGestureBC.swift */; };
@@ -69,6 +70,7 @@
 		CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBC.swift; sourceTree = "<group>"; };
 		CF12C4E827C1B18500B20EF3 /* ListBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBC.swift; sourceTree = "<group>"; };
 		CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBC.swift; sourceTree = "<group>"; };
+		CF12C4EC27C2D5C100B20EF3 /* ActionSheetBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBC.swift; sourceTree = "<group>"; };
 		CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesture.swift; sourceTree = "<group>"; };
 		CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBC.swift; sourceTree = "<group>"; };
 		CF1B1FD6262FA393009028EC /* DragGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBC.swift; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */,
 				CF12C4E827C1B18500B20EF3 /* ListBC.swift */,
 				CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */,
+				CF12C4EC27C2D5C100B20EF3 /* ActionSheetBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -319,6 +322,7 @@
 			files = (
 				CF1B20002630C2F4009028EC /* HashableBC.swift in Sources */,
 				CF85197A279E664F00CF0BA3 /* ExtractedFunctionsBC.swift in Sources */,
+				CF12C4ED27C2D5C100B20EF3 /* ActionSheetBC.swift in Sources */,
 				CF1B1FDA262FBB4D009028EC /* ScrollViewReaderBC.swift in Sources */,
 				CFD74DA927B0A55B00E0EBF3 /* AnimationTimingBC.swift in Sources */,
 				CF8519742797AC7500CF0BA3 /* SafeAreaBC.swift in Sources */,
