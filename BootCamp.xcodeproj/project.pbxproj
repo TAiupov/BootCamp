@@ -17,6 +17,7 @@
 		CF12C4EB27C2CBB900B20EF3 /* AlertBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */; };
 		CF12C4ED27C2D5C100B20EF3 /* ActionSheetBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4EC27C2D5C100B20EF3 /* ActionSheetBC.swift */; };
 		CF12C4EF27C301CA00B20EF3 /* ContextMenuBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4EE27C301CA00B20EF3 /* ContextMenuBC.swift */; };
+		CF12C4F127C3060F00B20EF3 /* TextfieldBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4F027C3060F00B20EF3 /* TextfieldBC.swift */; };
 		CF1B1FCE262F7392009028EC /* MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */; };
 		CF1B1FD4262FA1ED009028EC /* RotationGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */; };
 		CF1B1FD7262FA393009028EC /* DragGestureBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B1FD6262FA393009028EC /* DragGestureBC.swift */; };
@@ -73,6 +74,7 @@
 		CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBC.swift; sourceTree = "<group>"; };
 		CF12C4EC27C2D5C100B20EF3 /* ActionSheetBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBC.swift; sourceTree = "<group>"; };
 		CF12C4EE27C301CA00B20EF3 /* ContextMenuBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBC.swift; sourceTree = "<group>"; };
+		CF12C4F027C3060F00B20EF3 /* TextfieldBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBC.swift; sourceTree = "<group>"; };
 		CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesture.swift; sourceTree = "<group>"; };
 		CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBC.swift; sourceTree = "<group>"; };
 		CF1B1FD6262FA393009028EC /* DragGestureBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBC.swift; sourceTree = "<group>"; };
@@ -228,6 +230,7 @@
 				CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */,
 				CF12C4EC27C2D5C100B20EF3 /* ActionSheetBC.swift */,
 				CF12C4EE27C301CA00B20EF3 /* ContextMenuBC.swift */,
+				CF12C4F027C3060F00B20EF3 /* TextfieldBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -349,6 +352,7 @@
 				CF1B1FCE262F7392009028EC /* MagnificationGesture.swift in Sources */,
 				CFD74DA727B0A06C00E0EBF3 /* AnimationBC.swift in Sources */,
 				CFD74DA327B0965100E0EBF3 /* ConditionalBC.swift in Sources */,
+				CF12C4F127C3060F00B20EF3 /* TextfieldBC.swift in Sources */,
 				CF1B1FF72630B7FA009028EC /* HapticsBC.swift in Sources */,
 				CFD74DA527B09AE100E0EBF3 /* TernaryBC.swift in Sources */,
 				CF1B1FDD262FC383009028EC /* GeometryReaderBC.swift in Sources */,
