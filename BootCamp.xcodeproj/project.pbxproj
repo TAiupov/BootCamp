@@ -37,6 +37,7 @@
 		CF1B20032630E168009028EC /* ArrayBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B20022630E168009028EC /* ArrayBC.swift */; };
 		CF1B200626311F4E009028EC /* CoreDataBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1B200526311F4D009028EC /* CoreDataBC.swift */; };
 		CF1B200A26312050009028EC /* FruitContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF1B200826312050009028EC /* FruitContainer.xcdatamodeld */; };
+		CF38AA1227DD45670016BB50 /* ToggleBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF38AA1127DD45670016BB50 /* ToggleBC.swift */; };
 		CF466BE327B37149000DB4D6 /* PopoverBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF466BE227B37149000DB4D6 /* PopoverBC.swift */; };
 		CF4737F8279522F400C6CAA6 /* InitializierBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4737F7279522F400C6CAA6 /* InitializierBC.swift */; };
 		CF75076827C0384900D33526 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF75076727C0384900D33526 /* TestView.swift */; };
@@ -95,6 +96,7 @@
 		CF1B20022630E168009028EC /* ArrayBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayBC.swift; sourceTree = "<group>"; };
 		CF1B200526311F4D009028EC /* CoreDataBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBC.swift; sourceTree = "<group>"; };
 		CF1B200926312050009028EC /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
+		CF38AA1127DD45670016BB50 /* ToggleBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBC.swift; sourceTree = "<group>"; };
 		CF466BE227B37149000DB4D6 /* PopoverBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBC.swift; sourceTree = "<group>"; };
 		CF4737F7279522F400C6CAA6 /* InitializierBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializierBC.swift; sourceTree = "<group>"; };
 		CF75076727C0384900D33526 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
@@ -234,6 +236,7 @@
 				CF12C4EE27C301CA00B20EF3 /* ContextMenuBC.swift */,
 				CF12C4F027C3060F00B20EF3 /* TextfieldBC.swift */,
 				CF12C4F227C30D6700B20EF3 /* TexteditorBC.swift */,
+				CF38AA1127DD45670016BB50 /* ToggleBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -361,6 +364,7 @@
 				CFD74DA527B09AE100E0EBF3 /* TernaryBC.swift in Sources */,
 				CF1B1FDD262FC383009028EC /* GeometryReaderBC.swift in Sources */,
 				CF12C4EB27C2CBB900B20EF3 /* AlertBC.swift in Sources */,
+				CF38AA1227DD45670016BB50 /* ToggleBC.swift in Sources */,
 				CF85196E27952E4C00CF0BA3 /* ForEachBC.swift in Sources */,
 				CF85197C279E692500CF0BA3 /* ExtractSubvewsBC.swift in Sources */,
 				CF0C8FCD262F609A00DA248F /* BootCampApp.swift in Sources */,
