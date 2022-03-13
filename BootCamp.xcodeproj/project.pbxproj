@@ -43,6 +43,7 @@
 		CF38AA1827DD63EE0016BB50 /* DatePickerBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF38AA1727DD63EE0016BB50 /* DatePickerBC.swift */; };
 		CF38AA1A27DD67350016BB50 /* StepperBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF38AA1927DD67340016BB50 /* StepperBC.swift */; };
 		CF38AA1C27DD6FF60016BB50 /* SliderBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF38AA1B27DD6FF60016BB50 /* SliderBC.swift */; };
+		CF38AA1E27DD75930016BB50 /* TabViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF38AA1D27DD75920016BB50 /* TabViewBC.swift */; };
 		CF466BE327B37149000DB4D6 /* PopoverBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF466BE227B37149000DB4D6 /* PopoverBC.swift */; };
 		CF4737F8279522F400C6CAA6 /* InitializierBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4737F7279522F400C6CAA6 /* InitializierBC.swift */; };
 		CF75076827C0384900D33526 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF75076727C0384900D33526 /* TestView.swift */; };
@@ -107,6 +108,7 @@
 		CF38AA1727DD63EE0016BB50 /* DatePickerBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBC.swift; sourceTree = "<group>"; };
 		CF38AA1927DD67340016BB50 /* StepperBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBC.swift; sourceTree = "<group>"; };
 		CF38AA1B27DD6FF60016BB50 /* SliderBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBC.swift; sourceTree = "<group>"; };
+		CF38AA1D27DD75920016BB50 /* TabViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBC.swift; sourceTree = "<group>"; };
 		CF466BE227B37149000DB4D6 /* PopoverBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBC.swift; sourceTree = "<group>"; };
 		CF4737F7279522F400C6CAA6 /* InitializierBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializierBC.swift; sourceTree = "<group>"; };
 		CF75076727C0384900D33526 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
@@ -252,6 +254,7 @@
 				CF38AA1727DD63EE0016BB50 /* DatePickerBC.swift */,
 				CF38AA1927DD67340016BB50 /* StepperBC.swift */,
 				CF38AA1B27DD6FF60016BB50 /* SliderBC.swift */,
+				CF38AA1D27DD75920016BB50 /* TabViewBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -382,6 +385,7 @@
 				CF1B1FF72630B7FA009028EC /* HapticsBC.swift in Sources */,
 				CFD74DA527B09AE100E0EBF3 /* TernaryBC.swift in Sources */,
 				CF38AA1427DD46C10016BB50 /* PickerBC.swift in Sources */,
+				CF38AA1E27DD75930016BB50 /* TabViewBC.swift in Sources */,
 				CF1B1FDD262FC383009028EC /* GeometryReaderBC.swift in Sources */,
 				CF12C4EB27C2CBB900B20EF3 /* AlertBC.swift in Sources */,
 				CF38AA1227DD45670016BB50 /* ToggleBC.swift in Sources */,
