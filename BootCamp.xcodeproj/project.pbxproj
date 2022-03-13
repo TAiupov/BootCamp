@@ -55,6 +55,7 @@
 		CF851978279E639300CF0BA3 /* StateBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF851977279E639300CF0BA3 /* StateBC.swift */; };
 		CF85197A279E664F00CF0BA3 /* ExtractedFunctionsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF851979279E664F00CF0BA3 /* ExtractedFunctionsBC.swift */; };
 		CF85197C279E692500CF0BA3 /* ExtractSubvewsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF85197B279E692500CF0BA3 /* ExtractSubvewsBC.swift */; };
+		CF8CAC7627DD9AA900C2F2B3 /* DarkModeBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8CAC7527DD9AA900C2F2B3 /* DarkModeBC.swift */; };
 		CF92C9622634A709008B8AFF /* CoreDataRelationshipsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */; };
 		CF92C9662634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF92C9642634A8BF008B8AFF /* CoreDataContainer.xcdatamodeld */; };
 		CFC00974263B37E100297C3D /* DownLoadWithCombineBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */; };
@@ -120,6 +121,7 @@
 		CF851977279E639300CF0BA3 /* StateBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBC.swift; sourceTree = "<group>"; };
 		CF851979279E664F00CF0BA3 /* ExtractedFunctionsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBC.swift; sourceTree = "<group>"; };
 		CF85197B279E692500CF0BA3 /* ExtractSubvewsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubvewsBC.swift; sourceTree = "<group>"; };
+		CF8CAC7527DD9AA900C2F2B3 /* DarkModeBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBC.swift; sourceTree = "<group>"; };
 		CF92C9612634A709008B8AFF /* CoreDataRelationshipsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBC.swift; sourceTree = "<group>"; };
 		CF92C9652634A8BF008B8AFF /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		CFC00973263B37E100297C3D /* DownLoadWithCombineBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownLoadWithCombineBC.swift; sourceTree = "<group>"; };
@@ -255,6 +257,7 @@
 				CF38AA1927DD67340016BB50 /* StepperBC.swift */,
 				CF38AA1B27DD6FF60016BB50 /* SliderBC.swift */,
 				CF38AA1D27DD75920016BB50 /* TabViewBC.swift */,
+				CF8CAC7527DD9AA900C2F2B3 /* DarkModeBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -386,6 +389,7 @@
 				CFD74DA527B09AE100E0EBF3 /* TernaryBC.swift in Sources */,
 				CF38AA1427DD46C10016BB50 /* PickerBC.swift in Sources */,
 				CF38AA1E27DD75930016BB50 /* TabViewBC.swift in Sources */,
+				CF8CAC7627DD9AA900C2F2B3 /* DarkModeBC.swift in Sources */,
 				CF1B1FDD262FC383009028EC /* GeometryReaderBC.swift in Sources */,
 				CF12C4EB27C2CBB900B20EF3 /* AlertBC.swift in Sources */,
 				CF38AA1227DD45670016BB50 /* ToggleBC.swift in Sources */,
