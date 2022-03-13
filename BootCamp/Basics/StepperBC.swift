@@ -26,6 +26,7 @@ struct StepperBC: View {
                 //Decrement
                 incrementWidth(amount: -10)
             }
+            .padding()
 
         }
     }
