@@ -13,6 +13,7 @@
 		CF0C8FDD262F610900DA248F /* LongPress.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0C8FDC262F610900DA248F /* LongPress.swift */; };
 		CF0F17CB27B36AFE00004FC8 /* SheetsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */; };
 		CF10F14028020A8700F30126 /* DocumentationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF10F13F28020A8700F30126 /* DocumentationBC.swift */; };
+		CF10F1422802151600F30126 /* OnAppearBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF10F1412802151600F30126 /* OnAppearBC.swift */; };
 		CF12C4E727C1AB9900B20EF3 /* NavigationViewBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */; };
 		CF12C4E927C1B18500B20EF3 /* ListBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4E827C1B18500B20EF3 /* ListBC.swift */; };
 		CF12C4EB27C2CBB900B20EF3 /* AlertBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */; };
@@ -80,6 +81,7 @@
 		CF0C8FDC262F610900DA248F /* LongPress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPress.swift; sourceTree = "<group>"; };
 		CF0F17CA27B36AFE00004FC8 /* SheetsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBC.swift; sourceTree = "<group>"; };
 		CF10F13F28020A8700F30126 /* DocumentationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBC.swift; sourceTree = "<group>"; };
+		CF10F1412802151600F30126 /* OnAppearBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBC.swift; sourceTree = "<group>"; };
 		CF12C4E627C1AB9900B20EF3 /* NavigationViewBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBC.swift; sourceTree = "<group>"; };
 		CF12C4E827C1B18500B20EF3 /* ListBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBC.swift; sourceTree = "<group>"; };
 		CF12C4EA27C2CBB900B20EF3 /* AlertBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBC.swift; sourceTree = "<group>"; };
@@ -261,6 +263,7 @@
 				CF38AA1D27DD75920016BB50 /* TabViewBC.swift */,
 				CF8CAC7527DD9AA900C2F2B3 /* DarkModeBC.swift */,
 				CF10F13F28020A8700F30126 /* DocumentationBC.swift */,
+				CF10F1412802151600F30126 /* OnAppearBC.swift */,
 				CF0C8FDC262F610900DA248F /* LongPress.swift */,
 				CF1B1FCD262F7392009028EC /* MagnificationGesture.swift */,
 				CF1B1FD3262FA1ED009028EC /* RotationGestureBC.swift */,
@@ -370,6 +373,7 @@
 				CF12C4EF27C301CA00B20EF3 /* ContextMenuBC.swift in Sources */,
 				CF1B200626311F4E009028EC /* CoreDataBC.swift in Sources */,
 				CF1B1FE7262FF562009028EC /* SoundsBC.swift in Sources */,
+				CF10F1422802151600F30126 /* OnAppearBC.swift in Sources */,
 				CFD74DA127B08EE100E0EBF3 /* BindingBC.swift in Sources */,
 				CF38AA1C27DD6FF60016BB50 /* SliderBC.swift in Sources */,
 				CF1B1FE0262FC66A009028EC /* MultiSheetBC.swift in Sources */,
